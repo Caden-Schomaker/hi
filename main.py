@@ -1,2 +1,1 @@
-#hi
-print('dinos r cul')
+greetings = ['Hello!', 'How are you doing?',]
